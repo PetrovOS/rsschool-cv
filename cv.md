@@ -1,5 +1,5 @@
 # Oleg Petrov
-![Photo_PetrovOS](/rsschool-cv/img/PetrovOS.jpg "Photo for CV")
+![Photo_PetrovOS](https://github.com/PetrovOS/rsschool-cv/blob/gh-pages/img/PetrovOS.jpg)
 ## My Contacts
 * __Address:__ Avstriyskaya st., Kudrovo, Russia
 * __Phone number:__ +7(921) 797-18-84
