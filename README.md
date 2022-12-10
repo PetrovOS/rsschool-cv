@@ -1,2 +1,2 @@
 # rsschool-cv
-https://GITHUB-PetrovOS.github.io/rsschool-cv/cv
+https://github.com/PetrovOS/rsschool-cv/blob/gh-pages/cv.md
